@@ -1,4 +1,4 @@
-# Counting Objects using YOLOv3
+# Apple-Detection using YOLOv3
 
 
 YOLO is a pretrained network to detect 80 objectsfrom an image as mentioned in the.txt file.
@@ -20,4 +20,4 @@ Download the pre-trained YOLO v3 weights file from this [link](https://pjreddie.
 
 
 
-<img src="https://github.com/noorkhokhar99/yolov7-face/blob/main/Screen%20Shot%201444-04-03%20at%209.54.24%20PM.png">
+<img src="https://github.com/noorkhokhar99/Apple-Detection/blob/main/Screen%20Shot%201444-04-04%20at%207.09.33%20PM.png">
